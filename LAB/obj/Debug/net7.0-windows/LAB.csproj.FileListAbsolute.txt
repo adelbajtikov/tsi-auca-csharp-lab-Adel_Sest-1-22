@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\LAB\LAB\bin\Debug\net7.0-windows\LAB.exe
+C:\Users\user\source\repos\LAB\LAB\bin\Debug\net7.0-windows\LAB.deps.json
+C:\Users\user\source\repos\LAB\LAB\bin\Debug\net7.0-windows\LAB.runtimeconfig.json
+C:\Users\user\source\repos\LAB\LAB\bin\Debug\net7.0-windows\LAB.dll
+C:\Users\user\source\repos\LAB\LAB\bin\Debug\net7.0-windows\LAB.pdb
+C:\Users\user\source\repos\LAB\LAB\obj\Debug\net7.0-windows\LAB.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\LAB\LAB\obj\Debug\net7.0-windows\LAB.Form1.resources
+C:\Users\user\source\repos\LAB\LAB\obj\Debug\net7.0-windows\LAB.csproj.GenerateResource.cache
+C:\Users\user\source\repos\LAB\LAB\obj\Debug\net7.0-windows\LAB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\LAB\LAB\obj\Debug\net7.0-windows\LAB.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\LAB\LAB\obj\Debug\net7.0-windows\LAB.AssemblyInfo.cs
+C:\Users\user\source\repos\LAB\LAB\obj\Debug\net7.0-windows\LAB.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\LAB\LAB\obj\Debug\net7.0-windows\LAB.dll
+C:\Users\user\source\repos\LAB\LAB\obj\Debug\net7.0-windows\refint\LAB.dll
+C:\Users\user\source\repos\LAB\LAB\obj\Debug\net7.0-windows\LAB.pdb
+C:\Users\user\source\repos\LAB\LAB\obj\Debug\net7.0-windows\LAB.genruntimeconfig.cache
+C:\Users\user\source\repos\LAB\LAB\obj\Debug\net7.0-windows\ref\LAB.dll
